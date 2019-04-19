@@ -25,10 +25,16 @@ p:hover{
 
 #help{
 	position: fixed;
+	font-size: 25px;
   	left: 0;
   	bottom: 0;
   	width: 100%;
   	background-color: #AA6B39;
   	color: white;
   	text-align: center;
+}
+
+#btc{
+	font-size: 20px;
+	font-weight: bold;
 }
