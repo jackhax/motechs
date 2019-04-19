@@ -1,0 +1,30 @@
+body{
+	background: #DBB311;
+}
+
+
+#parent{
+	border: 5px solid black;
+	padding: 33px;
+	text-align: center;
+	position: fixed;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+}
+
+#head{
+	font-size: 30px;
+	color: green;
+	text-shadow: 2px 2px 5px red;
+}
+
+#help{
+	position: fixed;
+  	left: 0;
+  	bottom: 0;
+  	width: 100%;
+  	background-color: #AA6B39;
+  	color: white;
+  	text-align: center;
+}
